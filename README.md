@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=FFFFFF&width=700&lines=Hi%2C+I'm+Yashi+Sharma+%F0%9F%91%8B;CS+Undergrad+%7C+AI+%26+DS+Explorer;Building+Solutions+%26+Scalable+Systems+%F0%9F%92%BB;Driven+by+Data%2C+Designed+for+Impact;Let’s+Solve+Meaningful+Problems+Together!+%F0%9F%92%A1" alt="Typing Header"/>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=FFFFFF&size=30&center=true&vCenter=true&width=700&height=100&lines=Hi,+I'm+Yashi+Sharma+👋,;Building+Scalable+Solutions+💻,;Driven+by+Data,+Built+for+Impact!" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 
 
